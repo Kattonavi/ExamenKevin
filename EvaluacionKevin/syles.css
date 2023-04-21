@@ -3,28 +3,25 @@ body{
 }
 
 h1{
-   color: red;
-   text-align: center;
-   background-color: aqua;
-   border: black 2px solid;
-   border-left: blueviolet 1rem solid;
-   text-decoration: underline;
-   
-
+    color: red;
+    text-align: center;
+    background-color: aqua;
+    border: black 2px solid;
+    border-left: blueviolet 1rem solid;
+    text-decoration: underline;
+    
 }
 
 p{
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
-
 }
 
 img{  border: 10px cornflowerblue solid;
     width: 400px;
     height: 450px;
     opacity: 70%;
-
 }
 
 table {
@@ -32,10 +29,8 @@ table {
     width: 100%;
     border-collapse: collapse;
     border: 3px solid purple;
-  }
+}
 
-  tbody tr {
+tbody tr {
     background-color: #1857b6;
-  }
-  
-  
+}
